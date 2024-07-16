@@ -1,0 +1,77 @@
+{
+  "allVideos": [
+    {
+      "caption": "Till I Collapse",
+      "imageUrl": "https://i.ytimg.com/vi/jy4w-b8msds/maxresdefault.jpg",
+      "embededLink": "https://www.youtube.com/embed/Pi3_Zs-oRUo",
+      "id": 1
+    },
+    {
+      "caption": "mocking bird",
+      "imageUrl": "https://i.ytimg.com/vi/HuyMlX4obKE/maxresdefault.jpg",
+      "embededLink": "https://www.youtube.com/embed/S9bCLPwzSC0",
+      "id": 2
+    },
+    {
+      "caption": "Fein Travis Scott",
+      "imageUrl": "https://i.ytimg.com/vi/PLEUhEnpM8o/maxresdefault.jpg",
+      "embededLink": "https://www.youtube.com/embed/B9synWjqBn8",
+      "id": 3
+    },
+    {
+      "caption": "hymn for the weekend",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e31280717e98e8efc40c720b",
+      "embededLink": "https://www.youtube.com/embed/YykjpeuMNEk",
+      "id": 4
+    }
+  ],
+  "category": [
+    {
+      "showCategory": "Malayalam Songs",
+      "allVideos": [],
+      "id": 1
+    },
+    {
+      "showCategory": "Tamil Songs",
+      "allVideos": [],
+      "id": 2
+    },
+    {
+      "showCategory": "Hindi Songs",
+      "allVideos": [],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "Till I Collapse",
+      "videoUrl": "https://www.youtube.com/embed/Pi3_Zs-oRUo",
+      "timeStamp": "10/07/2024, 14:48:04",
+      "id": 1
+    },
+    {
+      "caption": "mocking bird",
+      "videoUrl": "https://www.youtube.com/embed/S9bCLPwzSC0",
+      "timeStamp": "10/07/2024, 15:06:03",
+      "id": 2
+    },
+    {
+      "caption": "Fein Travis Scott",
+      "videoUrl": "https://www.youtube.com/embed/B9synWjqBn8",
+      "timeStamp": "10/07/2024, 15:06:07",
+      "id": 3
+    },
+    {
+      "caption": "Till I Collapse",
+      "videoUrl": "https://www.youtube.com/embed/Pi3_Zs-oRUo",
+      "timeStamp": "11/07/2024, 13:59:07",
+      "id": 4
+    },
+    {
+      "caption": "hymn for the weekend",
+      "videoUrl": "https://www.youtube.com/embed/YykjpeuMNEk",
+      "timeStamp": "11/07/2024, 13:59:26",
+      "id": 5
+    }
+  ]
+}
